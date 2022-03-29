@@ -1,6 +1,15 @@
 Die Notebooks in diesem Ordner beschäftigen sich mit StyleGAN2 und seinen Eigenschaften. [StyleGAN2](https://github.com/NVlabs/stylegan2)/[StyleGAN3](https://github.com/NVlabs/stylegan3)
 ist in Punkto Bildqualität der vorherrschende generative Algorithmus.
 
+
+## Wikiart
+
+Die beiden Notebooks 'stylegan2_wikiart_unconditional.ipynb' und 'stylegan2_wikiart_conditional.ipynb' widmen sich der Synthese von Bildern
+mit auf dem Wikiart-Datenset trainierten StyleGANs.
+
+![](https://github.com/jwb95/HfG-KI-LAB---Tools/blob/main/StyleGAN2/media/fakes011041.jpg?raw=true)
+
+
 ## Generierung
 Im Notebook 'stylegan2_faces_unconditional.ipynb' generieren wir zuerst zufällige Bilder.
 
@@ -45,9 +54,3 @@ FFHQ und gleichzeitig die malerische Ästethik von Metfaces erhalten.
 Dieser[Blogpost](https://www.justinpinkney.com/stylegan-network-blending/) zeigt eine detaillierte Auseinandersetzung mit der Technik und liefert ein weiteres
 [Notebook](https://github.com/justinpinkney/toonify/blob/master/StyleGAN-blending-example.ipynb
 ), mittels dessen zwischen FFHQ und einem auf Erdansichten trainierten StylenGAN geblendet werden kann.
-
-
-## Wikiart
-
-Die verbleibenden beiden Notebooks 'stylegan2_wikiart_unconditional.ipynb' und 'stylegan2_wikiart_conditional.ipynb' widmen sich der Synthese von Bildern
-mit auf dem Wikiart-Datenset trainierten StyleGANs.
