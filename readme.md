@@ -8,10 +8,10 @@ StyleGAN3-GUI
 https://www.youtube.com/watch?v=Vuz-cRa1Ke0
 
 Zu erstellende/suchende Notebooks:
-StyleTransfer / STROTSS
+STROTSS
 
-Contrastive Unpaired Translation
-https://github.com/taesungp/contrastive-unpaired-translation
+pytti 5
+https://colab.research.google.com/drive/12EDQtYQ9ZK1zotQeLlp2ye8PY1Wron_h#scrollTo=AW4VrGKU0VUp
 
 ...
 
