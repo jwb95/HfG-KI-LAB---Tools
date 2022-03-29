@@ -14,13 +14,13 @@ https://colab.research.google.com/drive/12EDQtYQ9ZK1zotQeLlp2ye8PY1Wron_h#scroll
 
 ## StyleGAN (or related)
 
-Awesome Pretrained StyleGANs <br>
+### Awesome Pretrained StyleGANs <br>
 https://github.com/justinpinkney/awesome-pretrained-stylegan
 
-StyleGAN3-GUI <br>
+### StyleGAN3-GUI <br>
 https://www.youtube.com/watch?v=Vuz-cRa1Ke0
 
-Lucid Sonic Dreams (audioreactive StyleGAN interpolation)
+### Lucid Sonic Dreams (audioreactive StyleGAN interpolation) <br>
 https://colab.research.google.com/drive/1Y5i50xSFIuN3V4Md8TB30_GOAtts7RQD?usp=sharing
 
 
