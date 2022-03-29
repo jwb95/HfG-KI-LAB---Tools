@@ -16,5 +16,8 @@ https://colab.research.google.com/drive/12EDQtYQ9ZK1zotQeLlp2ye8PY1Wron_h#scroll
 ...
 
 GUIS
-https://ganpaint.io/
-https://www.artbreeder.com/
+https://ganpaint.io/ <br>
+https://www.artbreeder.com/ <br>
+https://www.prosepainter.com/ <br>
+https://app.wombo.art/
+
