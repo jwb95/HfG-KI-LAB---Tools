@@ -11,3 +11,7 @@ Zu erstellende/suchende Notebooks:
 StyleTransfer / STROTSS
 
 ...
+
+GUIS
+https://ganpaint.io/
+https://www.artbreeder.com/
