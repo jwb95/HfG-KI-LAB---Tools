@@ -13,6 +13,9 @@ https://colab.research.google.com/drive/12EDQtYQ9ZK1zotQeLlp2ye8PY1Wron_h#scroll
 StyleGAN3-GUI
 https://www.youtube.com/watch?v=Vuz-cRa1Ke0
 
+tgBomze Notebook Collection:
+https://github.com/tg-bomze/collection-of-notebooks
+
 Zu erstellende/suchende Notebooks:
 STROTSS
 
