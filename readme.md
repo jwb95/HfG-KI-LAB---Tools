@@ -15,7 +15,7 @@ https://colab.research.google.com/drive/12EDQtYQ9ZK1zotQeLlp2ye8PY1Wron_h#scroll
 
 ...
 
-GUIS
+GUI Tools <br>
 https://ganpaint.io/ <br>
 https://www.artbreeder.com/ <br>
 https://www.prosepainter.com/ <br>
