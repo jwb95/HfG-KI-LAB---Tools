@@ -1,4 +1,4 @@
-## Text to Image (VQGAN / Diffusion with CLIP guidance)
+## Text to Image | Video (VQGAN / Diffusion with CLIP guidance)
 
 ### StyleGAN3 + CLIP <br>
 https://colab.research.google.com/github/ouhenio/StyleGAN3-CLIP-notebook/blob/main/StyleGAN3%2BCLIP.ipynb#scrollTo=bJOj_BWi_JwR
@@ -22,6 +22,9 @@ https://www.youtube.com/watch?v=Vuz-cRa1Ke0
 
 ### Lucid Sonic Dreams (audioreactive StyleGAN interpolation) <br>
 https://colab.research.google.com/drive/1Y5i50xSFIuN3V4Md8TB30_GOAtts7RQD?usp=sharing
+
+### StyleGAN network blending <br>
+https://colab.research.google.com/drive/1tputbmA9EaXs9HL9iO21g7xN7jz_Xrko?usp=sharing
 
 
 
