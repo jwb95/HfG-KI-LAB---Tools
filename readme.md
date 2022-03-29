@@ -10,6 +10,9 @@ https://www.youtube.com/watch?v=Vuz-cRa1Ke0
 Zu erstellende/suchende Notebooks:
 StyleTransfer / STROTSS
 
+Contrastive Unpaired Translation
+https://github.com/taesungp/contrastive-unpaired-translation
+
 ...
 
 GUIS
