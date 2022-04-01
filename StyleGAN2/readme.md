@@ -3,7 +3,6 @@ ist in Punkto Bildqualität der vorherrschende generative Algorithmus.
 
 
 ## Wikiart
-
 Die beiden Notebooks 'stylegan2_wikiart_unconditional.ipynb' und 'stylegan2_wikiart_conditional.ipynb' widmen sich der Synthese von Bildern
 mit auf dem Wikiart-Datenset trainierten StyleGANs.
 
@@ -20,6 +19,8 @@ Dann Interpolieren wir zwischen zwei Bildern. Beispielsweise vereint das Bild ob
 Das Netz versucht gewissermaßen zu generieren, was als eine Art statistisches Mittel der Eigenschaften beider Bilder interpretiert werden könnte.
 
 ![](https://github.com/jwb95/HfG-KI-LAB---Tools/blob/main/StyleGAN2/media/interpolations/2_interp_ffhq.png?raw=true)
+
+[Dieses Video](https://artist.rip/zloc/interpol.mp4) zeigt die Interpolation von zufällig gesampelten Bildern eines von Maximilian Kreis trainierten StyleGAN3-Models.
 
 ## Projektion
 Anschließend unternehmen wir den Versuch Bilder in den Latent-Space von StyleGAN zu projizieren. Das bedeutet, StyleGAN soll probieren ein Bild
