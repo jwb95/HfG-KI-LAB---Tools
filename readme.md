@@ -31,9 +31,8 @@ https://colab.research.google.com/drive/1tputbmA9EaXs9HL9iO21g7xN7jz_Xrko?usp=sh
 ##tgBomze Notebook Collection: (maybe aussortiern) <br>
 https://github.com/tg-bomze/collection-of-notebooks
 
-Zu erstellende/suchende Notebooks:
-STROTSS
-
+Detectron2:
+https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5
 
 
 ...
