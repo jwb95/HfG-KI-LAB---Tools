@@ -12,6 +12,9 @@ https://colab.research.google.com/github/zippy731/disco-diffusion-turbo/blob/mai
 ### PYTTI 5 ( VQGAN / CLIP ) <br>
 https://colab.research.google.com/drive/12EDQtYQ9ZK1zotQeLlp2ye8PY1Wron_h#scrollTo=AW4VrGKU0VUp
 
+### Latent Diffusion LAION 400M <br>
+https://colab.research.google.com/github/multimodalart/latent-diffusion-notebook/blob/main/Latent_Diffusion_LAION_400M_model_text_to_image.ipynb
+
 ## StyleGAN (or related)
 
 ### Awesome Pretrained StyleGANs <br>
