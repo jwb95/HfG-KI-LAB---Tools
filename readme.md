@@ -1,3 +1,8 @@
+## Texts
+
+### Developments in popular Image Generation in 2021
+https://jxmo.notion.site/The-Weird-and-Wonderful-World-of-AI-Art-b9615a2e7278435b98380ff81ae1cf09
+
 ## Text to Image | Video (VQGAN / Diffusion with CLIP guidance)
 
 ### StyleGAN3 + CLIP <br>
