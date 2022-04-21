@@ -1,9 +1,3 @@
-## Texts
-
-### Entwicklungen in Popular-Image-Generation in 2021
-Die Formulierungen sind stellenweise etwas sensationalistisch - dennoch bietet der Artikel eine brauchbare Übersicht.
-https://jxmo.notion.site/The-Weird-and-Wonderful-World-of-AI-Art-b9615a2e7278435b98380ff81ae1cf09
-
 ## Text to Image | Video (VQGAN / Diffusion with CLIP guidance)
 
 ### StyleGAN3 + CLIP <br>
@@ -22,6 +16,8 @@ https://colab.research.google.com/drive/12EDQtYQ9ZK1zotQeLlp2ye8PY1Wron_h#scroll
 https://colab.research.google.com/github/multimodalart/latent-diffusion-notebook/blob/main/Latent_Diffusion_LAION_400M_model_text_to_image.ipynb
 
 ## StyleGAN (or related)
+
+Colab Notebooks aus der Stunde sind im Ordner "StyleGAN2" in dieser Repo.
 
 ### Awesome Pretrained StyleGANs <br>
 https://github.com/justinpinkney/awesome-pretrained-stylegan
@@ -43,6 +39,12 @@ https://github.com/tg-bomze/collection-of-notebooks
 ## Detectron2:
 https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5
 
+
+## Texts
+
+### Entwicklungen in Popular-Image-Generation im Jahr 2021
+Die Formulierungen sind stellenweise etwas sensationalistisch - dennoch bietet der Artikel eine brauchbare Übersicht.
+https://jxmo.notion.site/The-Weird-and-Wonderful-World-of-AI-Art-b9615a2e7278435b98380ff81ae1cf09
 
 ...
 
