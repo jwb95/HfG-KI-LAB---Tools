@@ -28,11 +28,6 @@ https://www.youtube.com/watch?v=Vuz-cRa1Ke0
 ### Lucid Sonic Dreams (audioreactive StyleGAN interpolation) <br>
 https://colab.research.google.com/drive/1Y5i50xSFIuN3V4Md8TB30_GOAtts7RQD?usp=sharing
 
-### StyleGAN network blending <br>
-https://colab.research.google.com/drive/1tputbmA9EaXs9HL9iO21g7xN7jz_Xrko?usp=sharing
-
-
-
 ##tgBomze Notebook Collection: (maybe aussortiern) <br>
 https://github.com/tg-bomze/collection-of-notebooks
 
