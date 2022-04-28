@@ -15,6 +15,9 @@ https://colab.research.google.com/drive/12EDQtYQ9ZK1zotQeLlp2ye8PY1Wron_h#scroll
 ### Latent Diffusion LAION 400M <br>
 https://colab.research.google.com/github/multimodalart/latent-diffusion-notebook/blob/main/Latent_Diffusion_LAION_400M_model_text_to_image.ipynb
 
+### Latent Diffusion Inpainting
+https://github.com/loboere/latent-diffusion-inpainting-colab
+
 ## StyleGAN (or related)
 
 Colab Notebooks aus der Stunde sind im Ordner "StyleGAN2" in dieser Repo.
