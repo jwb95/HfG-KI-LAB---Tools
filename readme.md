@@ -18,6 +18,9 @@ https://colab.research.google.com/github/multimodalart/latent-diffusion-notebook
 ### Latent Diffusion Inpainting
 https://github.com/loboere/latent-diffusion-inpainting-colab
 
+### Looking Glass
+https://colab.research.google.com/drive/15MQTRMqc7yn626PiC3KPb-DvVx_FrBAr
+
 ## StyleGAN (or related)
 
 Colab Notebooks aus der Stunde sind im Ordner "StyleGAN2" in dieser Repo.
