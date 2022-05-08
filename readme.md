@@ -38,7 +38,7 @@ https://colab.research.google.com/drive/1Y5i50xSFIuN3V4Md8TB30_GOAtts7RQD?usp=sh
 https://github.com/tg-bomze/collection-of-notebooks
 
 ## Detectron2:
-https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5
+https://github.com/facebookresearch/detectron2
 
 
 ## Texts
