@@ -1,3 +1,5 @@
+Detects BPM of wavfile and timestretches it such that it matches a target bpm.
+
 ##### Dependencies:
 
 numpy - pip install numpy
