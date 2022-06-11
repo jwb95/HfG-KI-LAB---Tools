@@ -1,4 +1,4 @@
-Detects BPM of wavfile and timestretches it such that it matches a target bpm.
+Detects bpm of wavfile and timestretches it such that it matches a target bpm.
 
 ##### Dependencies:
 
