@@ -40,6 +40,10 @@ https://github.com/tg-bomze/collection-of-notebooks
 ## Detectron2:
 https://github.com/facebookresearch/detectron2
 
+## Startups working in AI and Audio
+
+https://github.com/csteinmetz1/ai-audio-startups
+
 
 ## Texts
 
