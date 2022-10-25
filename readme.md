@@ -3,6 +3,9 @@
 ### StyleGAN3 + CLIP <br>
 https://colab.research.google.com/github/ouhenio/StyleGAN3-CLIP-notebook/blob/main/StyleGAN3%2BCLIP.ipynb#scrollTo=bJOj_BWi_JwR
 
+### Stable Diffusion
+https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb?authuser=1&pli=1#scrollTo=qH74gBWDd2oq
+
 ### DiscoDiffusionv5 / VQGAN+CLIP <br>
 https://colab.research.google.com/drive/1cg0LZ5OfN9LAIB37Xq49as0fSJxcKtC5#scrollTo=nVTCvBBnFZ2h
 
