@@ -10,6 +10,9 @@ in Blender: https://github.com/benrugg/AI-Render
 
 Outpainting UI: https://huggingface.co/spaces/lnyan/stablediffusion-infinity
 
+### Video
+Frame-Interpolation: https://github.com/google-research/frame-interpolation
+
 ### DiscoDiffusionv5 / VQGAN+CLIP <br>
 https://colab.research.google.com/drive/1cg0LZ5OfN9LAIB37Xq49as0fSJxcKtC5#scrollTo=nVTCvBBnFZ2h
 
