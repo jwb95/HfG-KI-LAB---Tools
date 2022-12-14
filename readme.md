@@ -10,6 +10,10 @@ in Blender: https://github.com/benrugg/AI-Render
 
 Outpainting UI: https://huggingface.co/spaces/lnyan/stablediffusion-infinity
 
+### Stille Post
+Simple Image Captioning: https://huggingface.co/spaces/akhaliq/CLIP_prefix_captioning
+SD Demo: https://huggingface.co/spaces/stabilityai/stable-diffusion
+
 ### Video
 Frame-Interpolation: https://github.com/google-research/frame-interpolation
 
