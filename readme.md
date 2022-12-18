@@ -13,7 +13,7 @@ Outpainting UI: https://huggingface.co/spaces/lnyan/stablediffusion-infinity
 ### Stille Post
 Simple Image Captioning: https://huggingface.co/spaces/akhaliq/CLIP_prefix_captioning
 
-Prompt Inversion: https://moritz.pm/posts/parameters
+Img2Prompt: https://moritz.pm/posts/parameters
 
 SD Demo: https://huggingface.co/spaces/stabilityai/stable-diffusion
 
