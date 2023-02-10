@@ -1,6 +1,13 @@
 ## Audio
 
-Music -> Samplepack: https://github.com/samim23/polymath
+### Music -> Samplepack
+https://github.com/samim23/polymath
+
+## 3D
+
+### Texturizing Meshes via text-prompt
+https://github.com/TEXTurePaper/TEXTurePaper
+
 
 ## Text to Image | Video (VQGAN / Diffusion with CLIP guidance)
 
