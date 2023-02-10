@@ -1,3 +1,7 @@
+## Audio
+
+Music -> Samplepack: https://github.com/samim23/polymath
+
 ## Text to Image | Video (VQGAN / Diffusion with CLIP guidance)
 
 ### StyleGAN3 + CLIP <br>
