@@ -9,6 +9,7 @@ https://github.com/samim23/polymath
 https://github.com/TEXTurePaper/TEXTurePaper
 
 ## Automatic1111
+https://colab.research.google.com/github/sagiodev/stablediffusion_webui/blob/master/StableDiffusionUI_ngrok_sagiodev.ipynb#scrollTo=gJBtadxGOK7b
 https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb#scrollTo=CFWtw-6EPrKi
 
 ## Text to Image | Video (VQGAN / Diffusion with CLIP guidance)
